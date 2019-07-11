@@ -3,4 +3,4 @@ Testing the Bitrise dashboard
 
 Should push a build now.
 
-More testing.
+More testing now.
